@@ -1,14 +1,10 @@
 
 > Ouvrir cette page à [https://dudleysmith.github.io/cnn-code-20-21--consigne-1/](https://dudleysmith.github.io/cnn-code-20-21--consigne-1/)
 
-## Utiliser comme extension
+## Tutorials
 
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
+* [tutorial](/tutorial)
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/dudleysmith/cnn-code-20-21--consigne-1** et importez
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/cnn-code-20-21--consigne-1/workflows/MakeCode/badge.svg)
 
