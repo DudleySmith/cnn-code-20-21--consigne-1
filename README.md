@@ -8,7 +8,7 @@
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/cnn-code-20-21--consigne-1/workflows/MakeCode/badge.svg)
 
-Éditer ce dépôt dans MakeCode.
+Éditer ce dépôt dans MakeCode MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
