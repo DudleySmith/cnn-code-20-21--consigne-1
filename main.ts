@@ -1,3 +1,3 @@
-/**
- * Clear
- */
+basic.forever(function () {
+	
+})
