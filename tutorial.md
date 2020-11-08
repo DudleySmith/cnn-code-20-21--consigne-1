@@ -85,3 +85,6 @@ input.onButtonPressed(Button.B, function () {
 ### Ensemble, on est plus forts @unplugged
 Maintenant que l'on connait les minimum, les maximums de tout le monde.
 Peut-on piloter le son avec le geste ? Et comment ?
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial.md)
+* [tutorial](/cnn-code-20-21–consigne-1/tutorial)
 
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/cnn-code-20-21--consigne-1/workflows/MakeCode/badge.svg)
